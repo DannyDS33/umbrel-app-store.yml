@@ -1,31 +1,25 @@
+
 manifestVersion: 1
-id: OpenGym
+id: opengym
 name: OpenGym
 tagline: Your self-hosted gym and workout app
 icon: https://svgur.com/i/mvA.svg
 category: Fitness
 version: "1.0.0"
-port: 4000
+port: 8080
 description: >-
   Self-host OpenGym on your own server.
   Access your workout application from your home network.
 
-
-
-  You can also add newlines!
-
 developer: DuarteSantos8
 website: https://github.com/DuarteSantos8/openGym
-submitter: Danny
+submitter: Jonaz
 submission: https://github.com/DuarteSantos8/openGym
 repo: https://github.com/DuarteSantos8/openGym
 support: https://github.com/DuarteSantos8/openGym/issues
-gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
+gallery: []
 releaseNotes: >-
-  Add what's new in the latest version of your app here.
+  Initial community app store configuration.
 dependencies: []
 path: ""
 defaultUsername: ""
